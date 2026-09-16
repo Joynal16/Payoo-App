@@ -7,5 +7,5 @@
 
 
 
-Live link : https://payoo-mini-bank-app.netlify.app/
+Live link : [https://payoo-mini-bank-app.netlify.app/](https://mini-bank-app-payoo.netlify.app/)
 
