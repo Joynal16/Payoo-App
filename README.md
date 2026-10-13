@@ -1,11 +1,31 @@
-<img width="450" height="932" alt="Login page" src="https://github.com/user-attachments/assets/ff6dacb3-9951-44d2-9ae6-05e581b69b7a" />
-<img width="450" height="958" alt="Home Page" src="https://github.com/user-attachments/assets/46081f85-07d7-4170-a671-abe403943f99" />
+# Payoo App – Mobile Banking
 
+Payoo is a Mobile Financial Services (MFS) interface that provides a smooth digital banking experience for managing money transfers and financial transactions.
 
+**Live Demo:** https://mini-bank-app-payoo.netlify.app/
 
+![Payoo App screenshot](./screenshot.png)
+<!-- Add a screenshot.png to the repo root -->
 
+## Features
 
+- Add money
+- Cash out
+- Bonus rewards
+- Transaction history tracking
 
+## Tech Stack
 
-Live link : [https://payoo-mini-bank-app.netlify.app/](https://mini-bank-app-payoo.netlify.app/)
+HTML, CSS, DaisyUI, Vanilla JavaScript
 
+## Run Locally
+
+```bash
+git clone https://github.com/Joynal16/Payoo-App.git
+cd Payoo-App
+# open index.html in your browser
+```
+
+## Author
+
+Joynal Abedin · [GitHub](https://github.com/Joynal16) · [LinkedIn](http://linkedin.com/in/joynal16)
