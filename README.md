@@ -1,4 +1,4 @@
-<img width="304" height="220" alt="Screenshot 2026-10-14 014517" src="https://github.com/user-attachments/assets/c6946c12-f71f-4c78-975b-bb2e4698a190" />
+<img width="304" height="250" alt="Screenshot 2026-10-14 014517" src="https://github.com/user-attachments/assets/c6946c12-f71f-4c78-975b-bb2e4698a190" />
 
 # Payoo App – Mobile Banking
 
