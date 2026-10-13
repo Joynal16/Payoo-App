@@ -6,9 +6,9 @@ Payoo is a Mobile Financial Services (MFS) interface that provides a smooth digi
 
 **Live Demo:** https://mini-bank-app-payoo.netlify.app/
 
-<img width="310" height="250" alt="Login" src="https://github.com/user-attachments/assets/a91bfd02-d33a-4f4c-81e8-46c71f91a910" />
-<img width="312" height="250" alt="Screenshot 2026-10-14 015139" src="https://github.com/user-attachments/assets/64d6c787-1320-4236-9bc7-a44751ef5093" />
-<img width="315" height="250" alt="Screenshot 2026-10-14 015156" src="https://github.com/user-attachments/assets/b8ef7e43-6aeb-42d2-99a5-ef4c3d38bdb7" />
+<img width="310" height="270" alt="Login" src="https://github.com/user-attachments/assets/a91bfd02-d33a-4f4c-81e8-46c71f91a910" />
+<img width="312" height="270" alt="Screenshot 2026-10-14 015139" src="https://github.com/user-attachments/assets/64d6c787-1320-4236-9bc7-a44751ef5093" />
+<img width="315" height="270" alt="Screenshot 2026-10-14 015156" src="https://github.com/user-attachments/assets/b8ef7e43-6aeb-42d2-99a5-ef4c3d38bdb7" />
 
 
 <!-- Add a screenshot.png to the repo root -->
